@@ -1,10 +1,10 @@
 
 # OJApp
-## A matlab user interface for analysing fluoroscence (OJIP) data from FluorPen instrument. That is serving as an additional plug in for "quick categorical analysis". 
+## A matlab user interface for analysing OJIP curve data from FluorPen instrument. That is serving as an additional plug in for "quick categorical analysis". 
 
-### The software can read converted FluorPen OJIP .txt data format.
+### The software can read converted FluorPen OJIP ".txt" datasets format.
 
-Features :
+Features 
 - Search datasets 'Datewise'
 - Highlights noisy or saturated OJIP curve
 - Creates multiple experimental categories based on selections
