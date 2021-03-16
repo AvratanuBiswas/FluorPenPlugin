@@ -1,6 +1,6 @@
 
 # OJApp
-## A matlab user interface for analysing OJIP curve data from FluorPen instrument. That is serving as an additional plug in for "quick categorical analysis". 
+## A matlab user interface for analysing OJIP curve datasets from FluorPen instrument. That is serving as an additional plug in for "quick categorical analysis". 
 
 ### The software can read converted FluorPen OJIP ".txt" datasets format.
 
