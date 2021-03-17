@@ -11,7 +11,7 @@ Features
 - Automated normalised curves 
 - Plot multiple datasets or categories together 
 - Merge multiple datasets 
-- Save datatsets categorically or individually
+- Save datasets categorically or individually
 - Keyboard shortcuts provided for quick access
 
 The mlapinstall file can be directly installed in Matlab. 
